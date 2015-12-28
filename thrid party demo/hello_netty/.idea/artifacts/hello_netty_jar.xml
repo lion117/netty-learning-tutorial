@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hello_netty:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hello_netty_jar</output-path>
+    <root id="archive" name="hello_netty.jar">
+      <element id="module-output" name="hello_netty" />
+      <element id="library" level="project" name="netty-all-4.0.28.Final-sources" />
+      <element id="library" level="project" name="netty-all-4.0.28.Final-javadoc" />
+      <element id="extracted-dir" path="D:/program/third_party/netty-4.0.28.Final/jar/all-in-one/netty-all-4.0.28.Final.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
